@@ -1,4 +1,4 @@
-# Hi there, I'm Jayaprakash - aka [Jp] 👋
+# Hey there, I'm Jayaprakash - aka [Jp] 👋
 
 ## I'm a Machine Learning Developer, Intrested in AI ,Data Science and Software Development!!
 
