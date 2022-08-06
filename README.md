@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other ML/Data Science Enthusiasts
-- 🥅 2022 Goals: Learn more about Machine Learning Pipeline and Deployment(MLops)
+- 🥅 2022 Goals: Learn in depth about Machine Learning in Production (MLops) and Contribute to Open Source Projects
 - ⚡ Fun fact: I love to ride Motorcycles!
 
 ### Connect with me:
